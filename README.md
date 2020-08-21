@@ -1,6 +1,8 @@
 # Gym-OpenAI-Cartpole-V0
 
-a notebook explaining the training of a Deep Q_learning agent based on Reinforcement learning for Cartpole-V0
+[Cartpole.ipynb](https://github.com/JVedant/Gym-OpenAI-Cartpole-V0/blob/master/Cartpole.ipynb) is a notebook explaining the training of a Deep Q_learning agent based on Reinforcement learning for Cartpole-V0
+
+[DeepQLearning.py](https://github.com/JVedant/Gym-OpenAI-Cartpole-V0/blob/master/DeepQLearning.py) contains the model which uses tensorflow(keras) for DeepLearning
 
 ---
 
